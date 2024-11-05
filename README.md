@@ -1,4 +1,4 @@
-# SE3309_Assignment3_2023
+# SE3309_Assignment3_2024
 
 This repo will contain the data source for your project and the sql files for each questions.
 
